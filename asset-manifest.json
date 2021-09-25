@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-gif-finder-app/static/css/main.665ceff3.chunk.css",
+    "main.js": "/react-gif-finder-app/static/js/main.a6ebbcf2.chunk.js",
+    "main.js.map": "/react-gif-finder-app/static/js/main.a6ebbcf2.chunk.js.map",
+    "runtime-main.js": "/react-gif-finder-app/static/js/runtime-main.e1819683.js",
+    "runtime-main.js.map": "/react-gif-finder-app/static/js/runtime-main.e1819683.js.map",
+    "static/js/2.a833dfc6.chunk.js": "/react-gif-finder-app/static/js/2.a833dfc6.chunk.js",
+    "static/js/2.a833dfc6.chunk.js.map": "/react-gif-finder-app/static/js/2.a833dfc6.chunk.js.map",
+    "index.html": "/react-gif-finder-app/index.html",
+    "static/css/main.665ceff3.chunk.css.map": "/react-gif-finder-app/static/css/main.665ceff3.chunk.css.map",
+    "static/js/2.a833dfc6.chunk.js.LICENSE.txt": "/react-gif-finder-app/static/js/2.a833dfc6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1819683.js",
+    "static/js/2.a833dfc6.chunk.js",
+    "static/css/main.665ceff3.chunk.css",
+    "static/js/main.a6ebbcf2.chunk.js"
+  ]
+}
